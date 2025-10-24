@@ -23,7 +23,7 @@
 - Add 3–5 other small to medium projects (GitHub repos or live demos)
 
 ## 📈 GitHub Stats
-![Ameer GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedAmeerDeen&show_icons=true&theme=radical)
+![Ameer GitHub Stats](https://github-readme-stats.vercel.app/api?username=ideenameer&show_icons=true&theme=radical)
 
 ## 📫 Contact Me
 - Email: ideenameer404@gmail.com  

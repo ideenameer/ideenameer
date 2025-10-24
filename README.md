@@ -51,8 +51,8 @@
 ---
 
 ## 📈 GitHub Stats
-![Mohamed Ameer Deen GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedAmeerDeen&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAmeerDeen&layout=compact&theme=radical)
+![Mohamed Ameer Deen GitHub Stats](https://github-readme-stats.vercel.app/api?username=ideenameer&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ideenameer&layout=compact&theme=radical)
 
 ---
 
